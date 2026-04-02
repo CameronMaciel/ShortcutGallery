@@ -20,9 +20,9 @@
   },
   {
     "id": "gallery_Git_Hubs",
-    "name": "Git hub",
+    "name": "Git",
     "description": "Github Now holder shortcut data.",
-    "icon": "message.fill",
+    "icon": "list.bullet.rectangle.portrait",
     "colorHex": "34C759",
     "category": "Social",
     "iCloudURL": "https://www.icloud.com/shortcuts/80f51e4edb8a4b2382ca07b6fb6c0db4"
