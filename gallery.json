@@ -1,1 +1,31 @@
-
+{
+"shortcuts": [
+  {
+    "id": "gallery_create_toolbar_shortcut",
+    "name": "Create Toolbar Shortcut",
+    "description": "Easily add your shortcuts you have already made to a Keyboard Toolbar.",
+    "icon": "hammer.fill",
+    "colorHex": "FF9500",
+    "category": "Featured",
+    "iCloudURL": "https://www.icloud.com/shortcuts/96822afb60f549458f82e6b8d3c3b2cd"
+  },
+  {
+    "id": "gallery_open_text",
+    "name": "Open Text",
+    "description": "Quickly open to any of your top 3 conversations.",
+    "icon": "message.fill",
+    "colorHex": "34C759",
+    "category": "Social",
+    "iCloudURL": "https://www.icloud.com/shortcuts/80f51e4edb8a4b2382ca07b6fb6c0db4"
+  },
+  {
+    "id": "gallery_cloud_voice",
+    "name": "Cloud Voice",
+    "description": "Dictate your voice and use AI to clean your grammar, punctuation and spelling. The Shortcut will take you back to the app you were in and prompt you to paste the cleaned version.",
+    "icon": "mic.fill",
+    "colorHex": "5856D6",
+    "category": "Productivity",
+    "iCloudURL": "https://www.icloud.com/shortcuts/299f5bfff33240d0b1da5a32d4c082a4"
+  }
+]
+}
