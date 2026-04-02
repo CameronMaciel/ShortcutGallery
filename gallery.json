@@ -19,6 +19,15 @@
     "iCloudURL": "https://www.icloud.com/shortcuts/80f51e4edb8a4b2382ca07b6fb6c0db4"
   },
   {
+    "id": "gallery_open_text",
+    "name": "Texting Git hub",
+    "description": "Github Now holder shortcut data.",
+    "icon": "message.fill",
+    "colorHex": "34C759",
+    "category": "Social",
+    "iCloudURL": "https://www.icloud.com/shortcuts/80f51e4edb8a4b2382ca07b6fb6c0db4"
+  },
+  {
     "id": "gallery_cloud_voice",
     "name": "Cloud Voice",
     "description": "Dictate your voice and use AI to clean your grammar, punctuation and spelling. The Shortcut will take you back to the app you were in and prompt you to paste the cleaned version.",
